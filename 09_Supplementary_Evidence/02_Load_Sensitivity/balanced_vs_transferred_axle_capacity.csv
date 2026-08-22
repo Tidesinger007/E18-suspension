@@ -1,0 +1,3 @@
+﻿Axle,Total_FZ_N,Balanced_Load_Each_Tire_N,Transferred_Inner_FZ_N,Transferred_Outer_FZ_N,Balanced_Axle_Capacity_N,Transferred_Axle_Capacity_N,Capacity_Loss_N,Capacity_Loss_pct,Balanced_Coverage,Inner_Coverage,Outer_Coverage
+Front,1098.344799999999,549.1723999999995,297.856216949152,800.488583050847,2792.237983024388,2777.2412316138257,14.99675141056241,0.5370871502263145,interpolation inside measured range,interpolation inside measured range,interpolation inside measured range
+Rear,1647.5171999999961,823.7585999999981,516.594376271186,1130.92282372881,4074.9523069421534,4068.73589530317,6.216411638983573,0.15255176430882872,interpolation inside measured range,interpolation inside measured range,clamped above measured range

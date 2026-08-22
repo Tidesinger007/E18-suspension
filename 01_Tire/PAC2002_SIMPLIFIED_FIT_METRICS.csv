@@ -1,0 +1,2 @@
+Label,N,B,C,D_N,E,Sv_N,R2,RMSE_N,MAE_N,SA_Min_deg,SA_Max_deg,FY_Min_N,FY_Max_N,ModelScope
+43075 rim7,2415,0.128633702171873,1.69439557598907,2600.75660888649,0.350922107355192,-45.0976471341519,0.998491881357327,82.3054001615384,67.8255079096301,-12.285,12.302,-2646.6,2677.08,Simplified lateral Magic Formula shape fitted only inside measured data range; pressure/load/camber correction terms fixed absent for this operating-window fit.

@@ -1,0 +1,2 @@
+mass_kg,wheelbase_m,cg_height_m,ay_g,ax_g,front_static_frac,rear_static_frac,current_front_LLTD,user_front_track_m,user_rear_track_m,final_front_track_m,final_rear_track_m
+280,1.58,0.28,1.8,1.4,0.4,0.6,0.45,1.28,1.25,1.25,1.23

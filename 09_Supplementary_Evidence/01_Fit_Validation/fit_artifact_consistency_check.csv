@@ -1,0 +1,3 @@
+﻿Artifact,N,R2,RMSE_N,MAE_N,Assessment
+Evidence-package CSV / current MATLAB table,2415,0.998491881357327,82.3054001615384,67.8255079096301,Referenced by current report
+Stored Python fallback NPZ model,2446,0.9798979072761105,301.61851288757106,286.6826499459483,Different fit implementation/version; not consistent with current table

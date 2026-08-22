@@ -1,0 +1,8 @@
+Item,Path,Use
+Hardpoint workbook,C:\Users\34094\Desktop\E18_hardpoint_V6a (version 1).xlsx,"Use ninth/final sheet only"
+Tire MATLAB project,C:\Users\34094\Desktop\Tire_Selection_Analysis,"Existing Round 9 TTC/PAC2002 analysis reused"
+Tire load sensitivity,C:\Users\34094\Desktop\Tire_Selection_Analysis\results\tables\PEAK_MU_BY_FZ.csv,"Used for LLTD capacity model"
+Tire camber sensitivity,C:\Users\34094\Desktop\Tire_Selection_Analysis\results\tables\CAMBER_SENSITIVITY.csv,"Used for camber evidence"
+PAC2002 simplified fit metrics,C:\Users\34094\Desktop\Tire_Selection_Analysis\results\tables\PAC2002_SIMPLIFIED_FIT_METRICS.csv,"Scoped fit for selected tire"
+Damper data sheet,C:\Users\34094\Desktop\SPEEDUCK\TTX25-MkII-Dyno-N-vs-mmps.pdf,"Generic Ohlins TTX25 MkII dyno chart, not confirmed as car-specific dyno"
+Adams 2020 command,C:\Program Files\MSC.Software\Adams\2020_711253\bin\adams2020.bat,"Executable found; model automation not completed in this pass"

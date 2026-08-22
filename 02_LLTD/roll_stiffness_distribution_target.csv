@@ -1,0 +1,2 @@
+Front_RC_Height_m,Rear_RC_Height_m,Front_Geometric_Load_Diff_N,Rear_Geometric_Load_Diff_N,Front_Target_Load_Diff_N,Rear_Target_Load_Diff_N,Front_Elastic_Load_Diff_N,Rear_Elastic_Load_Diff_N,Elastic_Front_Roll_Stiffness_Share
+0.00903129559530353,0.0470838147485591,14.2840462382849,113.519114107119,502.632366101695,614.328447457627,488.34831986341,500.809333350508,0.493701199476843
